@@ -7,8 +7,16 @@
     "src/*"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
   },
   "author": "Christian Engel",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "1.18.1",
+    "ts-node": "10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.6"
+  }
 }
