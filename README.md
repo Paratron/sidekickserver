@@ -1,3 +1,5 @@
+![Sidekick Server Logo](./logo.png)
+
 # Sidekick Server
 
 > Heads up, this project is in a very early development phase
